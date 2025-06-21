@@ -43,49 +43,6 @@
 
 ---
 
-## 🧠 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🧮 Neural Network from Scratch</h4>
-      <ul>
-        <li>🧠 Built 2-layer NN using only NumPy</li>
-        <li>🔁 Forward/Backpropagation & gradient descent on MNIST</li>
-        <li>🛠️ NumPy, Matplotlib</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>📨 Spam Detection (Multilingual)</h4>
-      <ul>
-        <li>🌍 Logistic Regression classifier with TfidfVectorizer</li>
-        <li>⚙️ Celery + Redis for async task handling</li>
-        <li>🛠️ Python, Scikit-learn, FastAPI</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📈 Quantitative Trading (ML)</h4>
-      <ul>
-        <li>📊 Used Backtrader + XGBoost for trading decisions</li>
-        <li>🔍 Optimized strategy via historical data backtesting</li>
-        <li>🛠️ Python, XGBoost, TA-lib</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🌐 VenueMonk Internship</h4>
-      <ul>
-        <li>💻 Migrated Flask → FastAPI with async/await & LangChain</li>
-        <li>⚙️ Integrated Redis & RabbitMQ</li>
-        <li>🛠️ MERN, FastAPI, Docker</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌍 Open Source Contributions
 
 - **Apache Iceberg** – Enhanced test reliability and error handling ([PR #1015](https://github.com/apache/iceberg-python/pull/1015))  
