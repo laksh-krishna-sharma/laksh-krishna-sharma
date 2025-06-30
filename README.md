@@ -57,20 +57,6 @@
 - 📊 [Hackerrank SQL (Basic)](https://www.hackerrank.com/certificates/iframe/911150ed74f4)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=laksh-krishna-sharma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=laksh-krishna-sharma&theme=radical&hide_border=false" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh-krishna-sharma&layout=compact&theme=radical&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laksh-krishna-sharma&theme=radical" width="48%" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
